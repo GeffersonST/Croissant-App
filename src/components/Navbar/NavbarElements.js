@@ -10,7 +10,7 @@ export const Nav = styled.nav`
   font-weight: 700;
 `;
 export const NavLink = styled(Link)`
-  color: #fff;
+  color: #e0e8f9;
   font-size: 2rem;
   display: flex;
   align-items: center;
@@ -28,7 +28,7 @@ export const NavIcon = styled.div`
   top: 0;
   right: 0;
   cursor: pointer;
-  color: #fff;
+  color: #e0e8f9;
 
   p {
     transform: translate(-175%, 100%);
