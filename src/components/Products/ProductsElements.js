@@ -5,7 +5,7 @@ export const ProductsContainer = styled.div`
   min-height: 100vh;
   padding: 5rem calc((100vw - 1300px) / 2);
   background: #150f0f;
-  color: #fff;
+  color: #e0e8f9;
 `;
 export const ProductWrapper = styled.div`
   display: flex;
@@ -25,7 +25,7 @@ export const ProductImg = styled.img`
   height: 300px;
   min-width: 300px;
   max-width: 100%;
-  box-shadow: 8px 8px #fdc500;
+  box-shadow: 8px 8px #e59815;
 `;
 
 export const ProductsHeading = styled.h1`
@@ -62,12 +62,12 @@ export const ProductButton = styled.button`
   font-size: 1rem;
   padding: 1rem 4rem;
   border: none;
-  background: #e31837;
-  color: #fff;
+  background: #360f27;
+  color: #e0e8f9;
   transition: 0.2 ease-out;
 
   &:hover {
-    background: #ffc500;
+    background: #e59815;
     transition: 0.2s ease-out;
     cursor: pointer;
     color: #000;
