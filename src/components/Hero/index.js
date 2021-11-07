@@ -18,8 +18,8 @@ const Hero = () => {
   };
   return (
     <HeroContainer>
-      <Navbar to={toggle} />
-      <Sidebar to={isOpen} toggle={toggle} />
+      <Navbar toggle={toggle} />
+      <Sidebar isOpen={isOpen} toggle={toggle} />
       <HeroContent>
         <HeroItems>
           <HeroH1>O Melhor Croissant</HeroH1>
