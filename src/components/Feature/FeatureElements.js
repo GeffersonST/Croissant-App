@@ -21,7 +21,7 @@ export const FeatureContainer = styled.div`
   }
   p {
     margin: 1rem;
-    font-size: clamp(3rem, 5vw, 5rem);
+    font-size: clamp(1rem, 5vw, 5rem);
   }
 `;
 
