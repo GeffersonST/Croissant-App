@@ -6,6 +6,7 @@ import Hero from "./components/Hero/index";
 import Products from "./components/Products";
 import { productData, productDataTwo } from "./components/Products/data";
 import Feature from "./components/Feature/index";
+import Footer from "./components/Footer/index";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Products heading="Escolha o seu favorito" data={productData} />
       <Feature />
       <Products heading="Escolha o seu Café" data={productDataTwo} />
+      <Footer />
     </Router>
   );
 }
