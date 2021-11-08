@@ -1,5 +1,5 @@
 <h1 align="center">
-  ☕<br>Croissant Bakehome
+  ☕<br>Croissant Bakehouse
 </h1>
 
 <h4 align="center">
@@ -9,7 +9,7 @@
   <img src="https://i.ibb.co/6gkSjJ6/croissant-screen.png" alt="croissant"  border="0">
  </p>
 
-<h4 align="center"><a href="https://croissant-bakehome.netlify.app">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://croissant-bakehouse.netlify.app">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 O App é composto por 3 seções diferentes:
