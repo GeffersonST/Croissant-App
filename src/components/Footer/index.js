@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../../images/croissant-logo.png";
 import {
   FaFacebook,
   FaInstagram,
@@ -22,7 +23,10 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to="/">Croissant</SocialLogo>
+            <SocialLogo to="/">
+              {" "}
+              <img src={logo} alt="logo" />
+            </SocialLogo>
             <SocialIcons>
               <SocialIconLink
                 href="/"
